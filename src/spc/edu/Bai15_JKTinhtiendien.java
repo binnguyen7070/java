@@ -123,7 +123,7 @@ public class Bai15_JKTinhtiendien extends javax.swing.JFrame {
     private void btn_TinhActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_TinhActionPerformed
         // TODO add your handling code here:
         int soCu, soMoi,tieuThu;
-        double Vat
+        
         
     }//GEN-LAST:event_btn_TinhActionPerformed
 
